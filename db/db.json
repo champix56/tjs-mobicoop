@@ -1,0 +1,19 @@
+{
+    "meme": [
+        {
+            "id": 0,
+            "text": {
+                "x": 0,
+                "y": 0,
+                "value": "mon text"
+            },
+            "idressource": 0
+        }
+    ],
+    "ressources": [
+        {
+            "id": 0,
+            "img": "img.jpg"
+        }
+    ]
+}
